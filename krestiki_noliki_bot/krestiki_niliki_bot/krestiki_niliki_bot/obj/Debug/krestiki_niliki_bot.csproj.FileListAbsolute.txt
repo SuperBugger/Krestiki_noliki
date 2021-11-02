@@ -1,0 +1,7 @@
+D:\тп\krestiki_noliki_bot\krestiki_niliki_bot\krestiki_niliki_bot\bin\Debug\krestiki_niliki_bot.exe.config
+D:\тп\krestiki_noliki_bot\krestiki_niliki_bot\krestiki_niliki_bot\bin\Debug\krestiki_niliki_bot.exe
+D:\тп\krestiki_noliki_bot\krestiki_niliki_bot\krestiki_niliki_bot\bin\Debug\krestiki_niliki_bot.pdb
+D:\тп\krestiki_noliki_bot\krestiki_niliki_bot\krestiki_niliki_bot\obj\Debug\krestiki_niliki_bot.csproj.AssemblyReference.cache
+D:\тп\krestiki_noliki_bot\krestiki_niliki_bot\krestiki_niliki_bot\obj\Debug\krestiki_niliki_bot.csproj.CoreCompileInputs.cache
+D:\тп\krestiki_noliki_bot\krestiki_niliki_bot\krestiki_niliki_bot\obj\Debug\krestiki_niliki_bot.exe
+D:\тп\krestiki_noliki_bot\krestiki_niliki_bot\krestiki_niliki_bot\obj\Debug\krestiki_niliki_bot.pdb
